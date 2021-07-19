@@ -1,0 +1,7 @@
+file_type : 'csv'
+file_name : 'data'
+inbound_delimiter : ","
+outbound_delimiter : "|"
+skip_leading_rows : 1
+columns : ['event_time','event_type','category_id','category_code','product_id','brand','price','user_id','user_session']
+    
